@@ -1,4 +1,4 @@
-I'm a final year BCA student currently learning full stack development. <br>Tech Enthusiast! <br>📬Reach out to me<br>biinducr@gmail.com
+I'm a final year BCA student passionate about software development. <br>Tech Enthusiast! <br>📬Reach out to me<br>biinducr@gmail.com
 
 
 ## 🌐 Socials:
