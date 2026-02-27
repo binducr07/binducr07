@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 I'm currently learning full stack development <br>💬 Python and Java(basics)<br>📬Reach out to me<br>biinducr@gmail.com<br>
+I'm currently learning full stack development <br>💬 Python and Java(basics)<br>📬Reach out to me<br>biinducr@gmail.com<br>
 
 
 ## 🌐 Socials:
